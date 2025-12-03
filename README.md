@@ -147,4 +147,5 @@ This project is licensed under the [GNU](LICENSE) License.
 
 ### Contact
 
-For any questions or suggestions, please contact at [email](akesherwani900@gmail.com).
+For any questions or suggestions, please contact at [email](vinayakkokkul20@gmail.com).
+
